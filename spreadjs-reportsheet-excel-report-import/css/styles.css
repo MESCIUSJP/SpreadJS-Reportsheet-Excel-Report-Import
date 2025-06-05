@@ -1,0 +1,17 @@
+body{
+    width: 610px;
+}
+
+.btn-container{
+    margin: 15px;
+ }
+
+.show-area{
+    margin: 15px;
+    border: solid black;
+}
+
+#ss{
+    width:580px;
+    height:900px
+}
