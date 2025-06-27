@@ -1,6 +1,6 @@
 # SpreadJS-Reportsheet-Excel-Report-Import
 SpreadJSの帳票開発機能「レポートシート」を使用して、既存のExcel帳票からWeb帳票アプリケーションに移行したサンプルです。  
-（https://devlog.mescius.jp/spreadjs-reportsheet-excel-report-import/）
+https://devlog.mescius.jp/spreadjs-reportsheet-excel-report-import/
 
 ![excel-report-migration](https://github.com/user-attachments/assets/e88592d0-7d5e-46c6-99a0-0e65abceedff)
 
